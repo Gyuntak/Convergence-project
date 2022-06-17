@@ -1,0 +1,13 @@
+1.  pip install django
+2.  pip install mysql
+3.  pip install djangorestframework
+4.  python manage.py runserver
+5.  localhost:8000/tests
+
+순서대로 진행하시면 됩니다.
+
+
+## 하기 전에 pycharm 사용하시면 file -> setting -> interpreters 가 설정되어 있는지 확인 ##
+
+
+## 코드 작성한 후에 github에 올려주시기 바랍니다. ##
