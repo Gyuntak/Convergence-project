@@ -67,6 +67,6 @@
 |김다운|dawun4705@gmail.com|https://github.com/gimdaun|
 |이찬욱||https://github.com/20144804|
 |한도아||
-|오순철|dhtnscjf12@gmail.com|github.com/soony1995|
+|오순철|dhtnscjf12@gmail.com|https://github.com/soony1995|
 |박균탁|qkr2713@naver.com|https://github.com/Gyuntak|
 |신석종|totoma3@naver.com|https://github.com/totoma3|
