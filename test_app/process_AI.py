@@ -38,13 +38,13 @@ def process_AI(df):
     if facial_result1 == 'Happy':
         Happy = count_df.nlargest(4, ['Happy'], keep='all')
 
-        # 기쁨 Happy 의 1~4순위 활동
+        
         Happy = Happy[["Happy", "ai_result"]]
 
         # Happy 인덱스를 리셋
         Happy = Happy.reset_index()
         del Happy['index']
-        # loc로 Act 값 추출 : Happy의 1~4순위 값
+        
 
         a = Happy.loc[1, "ai_result"]
 
